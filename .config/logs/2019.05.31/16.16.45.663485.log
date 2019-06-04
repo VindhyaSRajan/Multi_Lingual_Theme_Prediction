@@ -1,0 +1,419 @@
+2019-05-31 16:16:45,684 DEBUG    root            Loaded Command Group: [u'gcloud', u'components']
+2019-05-31 16:16:45,689 DEBUG    root            Loaded Command Group: [u'gcloud', u'components', u'update']
+2019-05-31 16:16:45,694 DEBUG    root            Running [gcloud.components.update] with arguments: [--allow-no-backup: "True", --quiet: "True", COMPONENT-IDS:5: "[u'core', u'gcloud-deps', u'bq', u'gcloud', u'gsutil']"]
+2019-05-31 16:16:46,756 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,756 INFO     ___FILE_ONLY___ 
+Your current Cloud SDK version is: 248.0.0
+
+2019-05-31 16:16:46,757 INFO     ___FILE_ONLY___ Installing components from version: 248.0.0
+
+2019-05-31 16:16:46,757 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,767 INFO     ___FILE_ONLY___ +----------------------------------------------------------------------------+
+2019-05-31 16:16:46,767 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,767 INFO     ___FILE_ONLY___ |                    These components will be installed.                     |
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ +-----------------------------------------------------+------------+---------+
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ |                         Name                        |  Version   |   Size  |
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ +-----------------------------------------------------+------------+---------+
+2019-05-31 16:16:46,768 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___ BigQuery Command Line Tool                         
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___     2.0.43
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,769 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___ < 1 MiB
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___ BigQuery Command Line Tool (Platform Specific)     
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___     2.0.34
+2019-05-31 16:16:46,770 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ < 1 MiB
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ Cloud SDK Core Libraries (Platform Specific)       
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,771 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ 2018.09.24
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ < 1 MiB
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___ Cloud Storage Command Line Tool                    
+2019-05-31 16:16:46,772 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___       4.38
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___ 3.8 MiB
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,773 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___ Cloud Storage Command Line Tool (Platform Specific)
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___       4.34
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___ < 1 MiB
+2019-05-31 16:16:46,774 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___ Default set of gcloud commands                     
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___           
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,775 INFO     ___FILE_ONLY___        
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___ gcloud cli dependencies                            
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___ 2018.08.03
+2019-05-31 16:16:46,776 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ | 
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ 8.6 MiB
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___  
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ |
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ +-----------------------------------------------------+------------+---------+
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,777 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:46,809 INFO     ___FILE_ONLY___ For the latest full release notes, please visit:
+  https://cloud.google.com/sdk/release_notes
+
+
+2019-05-31 16:16:46,816 INFO     ___FILE_ONLY___ #============================================================#
+
+2019-05-31 16:16:46,817 INFO     ___FILE_ONLY___ #= Creating update staging area                             =#
+
+2019-05-31 16:16:46,817 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:46,817 INFO     ___FILE_ONLY___ ======
+2019-05-31 16:16:46,818 INFO     ___FILE_ONLY___ ======
+2019-05-31 16:16:46,818 INFO     ___FILE_ONLY___ ======
+2019-05-31 16:16:46,914 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:46,932 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:46,951 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:46,975 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,018 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,035 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,052 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,073 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,094 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,107 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,125 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,143 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,163 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,184 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,206 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,226 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,242 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,263 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,286 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,334 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,382 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,408 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,436 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,472 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,504 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,521 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,542 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,558 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,574 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,592 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,612 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,629 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,655 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,671 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,692 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,712 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,729 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,753 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,776 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,802 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,857 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,868 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,868 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:47,875 INFO     ___FILE_ONLY___ #= Installing: BigQuery Command Line Tool                   =#
+
+2019-05-31 16:16:47,876 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:47,899 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,900 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,900 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,901 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,901 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,902 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,902 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,902 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,903 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,903 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,903 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,904 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,904 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,904 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,905 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,905 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,905 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,906 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,906 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,907 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,907 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,907 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,908 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,908 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,908 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,909 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,909 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,909 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,910 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,911 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,962 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,964 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,966 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,968 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,970 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,972 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,974 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,976 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,978 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,980 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,983 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,984 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,987 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,989 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,990 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,992 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,994 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,996 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:47,998 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,000 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,004 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,006 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,008 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,010 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,012 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,015 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,017 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,019 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,024 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,030 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,030 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:48,046 INFO     ___FILE_ONLY___ #= Installing: BigQuery Command Line Tool (Platform Spec... =#
+
+2019-05-31 16:16:48,046 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:48,065 INFO     ___FILE_ONLY___ ==============================
+2019-05-31 16:16:48,066 INFO     ___FILE_ONLY___ ===============
+2019-05-31 16:16:48,066 INFO     ___FILE_ONLY___ ===============
+2019-05-31 16:16:48,067 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:48,077 INFO     ___FILE_ONLY___ #= Installing: Cloud SDK Core Libraries (Platform Specific) =#
+
+2019-05-31 16:16:48,077 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:48,097 INFO     ___FILE_ONLY___ ==============================
+2019-05-31 16:16:48,098 INFO     ___FILE_ONLY___ ==========
+2019-05-31 16:16:48,099 INFO     ___FILE_ONLY___ =========
+2019-05-31 16:16:48,099 INFO     ___FILE_ONLY___ ===========
+2019-05-31 16:16:48,099 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:48,110 INFO     ___FILE_ONLY___ #= Installing: Cloud Storage Command Line Tool              =#
+
+2019-05-31 16:16:48,111 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:48,131 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,133 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,135 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,136 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,138 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,139 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,141 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,143 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,144 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,145 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,147 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,148 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,150 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,152 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,153 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,155 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,156 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,157 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,158 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,159 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,159 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,160 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,161 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,162 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,162 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,163 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,164 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,164 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,165 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,167 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,559 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,582 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,601 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,615 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,630 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,645 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,662 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,676 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,690 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,706 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,724 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,743 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,763 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,782 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,803 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,823 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,841 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,858 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,874 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,888 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,903 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,918 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,935 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,953 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,969 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:48,987 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,004 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,020 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,043 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,062 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,063 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:49,134 INFO     ___FILE_ONLY___ #= Installing: Cloud Storage Command Line Tool (Platform... =#
+
+2019-05-31 16:16:49,134 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:49,160 INFO     ___FILE_ONLY___ ==============================
+2019-05-31 16:16:49,161 INFO     ___FILE_ONLY___ ===============
+2019-05-31 16:16:49,162 INFO     ___FILE_ONLY___ ===============
+2019-05-31 16:16:49,162 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:49,173 INFO     ___FILE_ONLY___ #= Installing: Default set of gcloud commands               =#
+
+2019-05-31 16:16:49,173 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:49,178 INFO     ___FILE_ONLY___ ============================================================
+2019-05-31 16:16:49,179 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:49,185 INFO     ___FILE_ONLY___ #= Installing: gcloud cli dependencies                      =#
+
+2019-05-31 16:16:49,186 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:49,212 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,216 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,219 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,222 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,225 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,228 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,231 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,232 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,234 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,235 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,236 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,237 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,239 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,240 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,241 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,242 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,243 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,245 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,246 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,247 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,249 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,250 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,251 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,252 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,253 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,255 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,256 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,257 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,258 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,260 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,552 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,553 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,553 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,554 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,555 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,555 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,556 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,556 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,557 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,557 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,558 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,558 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,559 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,559 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,560 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,560 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,561 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,561 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,562 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,563 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,564 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,564 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,565 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,565 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,798 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,799 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,802 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,803 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,804 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,805 INFO     ___FILE_ONLY___ =
+2019-05-31 16:16:49,805 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:49,820 INFO     ___FILE_ONLY___ #= Creating backup and activating new installation          =#
+
+2019-05-31 16:16:49,820 INFO     ___FILE_ONLY___ #
+2019-05-31 16:16:49,820 DEBUG    root            Attempting to move directory [/tools/google-cloud-sdk] to [/tools/google-cloud-sdk.staging/.install/.backup]
+2019-05-31 16:16:49,821 INFO     ___FILE_ONLY___ ==============================
+2019-05-31 16:16:49,821 DEBUG    root            Attempting to move directory [/tools/google-cloud-sdk.staging] to [/tools/google-cloud-sdk]
+2019-05-31 16:16:49,821 INFO     ___FILE_ONLY___ ==============================
+2019-05-31 16:16:49,821 INFO     ___FILE_ONLY___ #
+
+2019-05-31 16:16:49,827 DEBUG    root            Updating notification cache...
+2019-05-31 16:16:49,827 INFO     ___FILE_ONLY___ 
+
+2019-05-31 16:16:49,834 INFO     ___FILE_ONLY___ Performing post processing steps...
+2019-05-31 16:16:49,835 DEBUG    root            Executing command: ['/usr/bin/python2', u'-S', u'/tools/google-cloud-sdk/lib/gcloud.py', u'components', u'post-process']
+2019-05-31 16:16:58,897 DEBUG    ___FILE_ONLY___ 
+2019-05-31 16:16:58,898 DEBUG    ___FILE_ONLY___ 
+2019-05-31 16:16:59,103 INFO     ___FILE_ONLY___ 
+Update done!
+
+
+2019-05-31 16:16:59,110 INFO     root            Display format: "none"
